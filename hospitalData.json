@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "hospitalName": "Cosmopolitan hospital",
+    "patientCount": 900,
+    "location": "Thiruvananthapuram"
+  },
+  {
+    "id": 2,
+    "hospitalName": "Credence hospital",
+    "patientCount": 950,
+    "location": "Thiruvananthapuram"
+  },
+  {
+    "id": 3,
+    "hospitalName": "SAT hospial",
+    "patientCount": 1000,
+    "location": "Thiruvananthapuram"
+  },
+  {
+    "id": 4,
+    "hospitalName": "SUT hospital",
+    "patientCount": 800,
+    "location": "Thiruvananthapuram"
+  },
+  {
+    "id": 5,
+    "hospitalName": "KIMS hospital",
+    "patientCount": 900,
+    "location": "Thiruvananthapuram"
+  }
+]
